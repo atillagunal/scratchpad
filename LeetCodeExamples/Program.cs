@@ -126,6 +126,7 @@ grid[1] = new int[] { 0, 1, 1, 1 };
 Console.WriteLine(solution.MaxAreaOfIsland(grid));
 */
 
+/*
 DetectCyclesIn2DGridSolution solution = new DetectCyclesIn2DGridSolution();
 char[][] grid = [ ['a', 'b', 'a', 'a'],
                   ['a', 'b', 'b', 'a'],
@@ -133,3 +134,8 @@ char[][] grid = [ ['a', 'b', 'a', 'a'],
                   ['a', 'a', 'a', 'a']];
 
 Console.WriteLine(solution.ContainsCycle(grid));
+*/
+
+ConvertArrayTo2dSolution solution = new ConvertArrayTo2dSolution();
+var result = solution.FindMatrix([1, 2, 3, 4, 2, 3, 4, 3, 4, 1]);
+Console.WriteLine(string.Join("\n", result.Select(l => string.Join(",", l))));
