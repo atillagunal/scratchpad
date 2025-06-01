@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\LeetCodeExamples\\LeetCodeExamples.csproj": {}
+    "c:\\src\\scratchpad\\LeetCodeExamples\\LeetCodeExamples.csproj": {}
   },
   "projects": {
-    "C:\\src\\LeetCodeExamples\\LeetCodeExamples.csproj": {
+    "c:\\src\\scratchpad\\LeetCodeExamples\\LeetCodeExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\LeetCodeExamples\\LeetCodeExamples.csproj",
+        "projectUniqueName": "c:\\src\\scratchpad\\LeetCodeExamples\\LeetCodeExamples.csproj",
         "projectName": "LeetCodeExamples",
-        "projectPath": "C:\\src\\LeetCodeExamples\\LeetCodeExamples.csproj",
+        "projectPath": "c:\\src\\scratchpad\\LeetCodeExamples\\LeetCodeExamples.csproj",
         "packagesPath": "C:\\Users\\gunal\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\LeetCodeExamples\\obj\\",
+        "outputPath": "c:\\src\\scratchpad\\LeetCodeExamples\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
