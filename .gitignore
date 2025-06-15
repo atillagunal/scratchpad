@@ -1,0 +1,21 @@
+# Compiled binaries and executables
+*.dll
+*.exe
+*.obj
+*.lib
+*.so
+*.dylib
+
+# Build output directories (common names)
+bin/
+obj/
+build/
+dist/
+out/
+target/
+
+# Package manager files (e.g., NuGet packages for .NET)
+packages/
+
+# Log files
+*.log
