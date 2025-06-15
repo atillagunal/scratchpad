@@ -136,6 +136,11 @@ char[][] grid = [ ['a', 'b', 'a', 'a'],
 Console.WriteLine(solution.ContainsCycle(grid));
 */
 
+/*
 ConvertArrayTo2dSolution solution = new ConvertArrayTo2dSolution();
 var result = solution.FindMatrix([1, 2, 3, 4, 2, 3, 4, 3, 4, 1]);
 Console.WriteLine(string.Join("\n", result.Select(l => string.Join(",", l))));
+*/
+
+MinTimeToTypeSolution solution = new MinTimeToTypeSolution();
+Console.WriteLine(solution.minTimeToType("abz"));
